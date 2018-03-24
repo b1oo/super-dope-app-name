@@ -57,3 +57,12 @@ The more it expands, the more security it will need, such as Google authorizatio
 
 #### Api Integration
 I have connections. My network is bigger than I thought.
+
+#### Data Model
+username/email, password, referral id, blockchain event log
+
+#### Schedule
+- 1-2 weeks for main app
+- 2 day for referral/user system
+- 1 day for front end
+- 5 days for more apps
